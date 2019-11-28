@@ -1,5 +1,5 @@
 
- const weatherInfo = (state={
+ const weatherInfo = (state = {
     weatherinfo:{}
 }, action) => {
     // check the action type 
